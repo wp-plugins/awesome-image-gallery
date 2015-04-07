@@ -1,10 +1,5 @@
 === Awesome Image Gallery ===
-Tags:album, albums, best gallery plugin, fancybox, free photo gallery, galleries, gallery, image, image album, image captions imagebrowser, image gallery,
- images, lightbox, media, media gallery, nextcellent,Gallery,Image gallery,Wordpress image gallery, nextgen, nextgen gallery, photo, photo albums, photo gallery, photographer, photography, photos, 
- picture, Picture Gallery, pictures, responsive, responsive galleries, responsive gallery,wp image gallery, image,slider,carousel, singlepic, slideshow, slideshow galleries, slideshow gallery,
- slideshows, thumbnail galleries, thumbnail gallery, thumbnails, awesome image gallery,responsive,responsive gallery watermarking, watermarks, wordpress gallery plugin, wordpress photo gallery plugin, 
- wordpress responsive gallery, wp gallery, wp gallery plugins,guests,permalinks, plugin, pullquote, responsive, responsive video, right-to-left, rss, service, services, short code, shortcode, shortcodes,
- siblings pages, slider, spoiler, sub pages, tab, tabs, toggle, touch, trl, video, vimeo, youtube
+Tags:album, albums, best gallery plugin, fancybox, free photo gallery, galleries, gallery, image, image album, image captions imagebrowser, image gallery,images, lightbox, media, media gallery, nextcellent,Gallery,Image gallery,Wordpress image gallery, nextgen, nextgen gallery, photo, photo albums, photo gallery, photographer, photography, photos,picture, Picture Gallery, pictures, responsive, responsive galleries, responsive gallery,wp image gallery, image,slider,carousel, singlepic, slideshow, slideshow galleries, slideshow gallery, slideshows, thumbnail galleries, thumbnail gallery, thumbnails, awesome image gallery,responsive,responsive gallery watermarking, watermarks, wordpress gallery plugin, wordpress photo gallery plugin,wordpress responsive gallery, wp gallery, wp gallery plugins,guests,permalinks, plugin, pullquote, responsive, responsive video, right-to-left, rss, service, services, short code, shortcode, shortcodes,siblings pages, slider, spoiler, sub pages, tab, tabs, toggle, touch, trl, video, vimeo, youtube
 
 Requires at least: 3.0.1
 Tested up to: 4.1
@@ -12,9 +7,8 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-<p>Just see our demo then rate us. We assure that this plugin is so nice</p>
-
-By installing this plugin you will get a awesome gallery image
+<p>Just see our demo then rate us. We assure that this plugin is so nice
+By installing this plugin you will get a super lightweight awesome gallery image. You can embed also video.</p>
 
 == Description ==
 
