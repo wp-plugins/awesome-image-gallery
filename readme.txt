@@ -17,6 +17,10 @@ By installing this plugin you will get a super lightweight awesome gallery image
 
 * [See the Live demo!&raquo;](http://raihanb.com/premium/awesome-image-gallery-2/)
 
+&nbsp;
+
+* [Watch video Tutorial!&raquo;](http://youtu.be/f2ANZShSpB0)
+
 ### <strong>Online Documentation</strong>
 
 <strong><a href="https://3145e2cfb78343928e8cdb91d7b0b7b4258be58d.googledrive.com/host/0B9POyLtozf0tfnNZQ1NwY1dwSTFCeXFYb1U5SUkzaG9ZWGg0NWNydVJ3UWl1SF9UZ3RRTDQ/">Online Documentation</a></strong>
@@ -58,6 +62,10 @@ By installing this plugin you will get a super lightweight awesome gallery image
 
 <strong> 3. Slide effect, video support, margin, </strong>
 [gallery id="3" ids="15,16,14,13,130,129,128" effect="slide" margin="25px" link="none" id="3" shadow="3px" shadow_color="yellow" theme="blue" ]
+
+<strong>See the video how to work</strong> <br>
+http://youtu.be/f2ANZShSpB0
+
 
 == Installation ==
 This section describes how to install the plugin and get it working.
