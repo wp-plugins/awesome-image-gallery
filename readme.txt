@@ -7,8 +7,8 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-<p>Just see our demo then rate us. We assure that this plugin is so nice
-By installing this plugin you will get a super lightweight awesome gallery image. You can embed also video.</p>
+<p>Just see our demo then rate us. We assure that this plugin is so nice.
+By installing this plugin you will get a super lightweight awesome gallery image.You can embed also video.</p>
 
 == Description ==
 
@@ -16,8 +16,6 @@ By installing this plugin you will get a super lightweight awesome gallery image
 
 
 * [See the Live demo!&raquo;](http://raihanb.com/premium/awesome-image-gallery-2/)
-
-&nbsp;
 
 * [Watch video Tutorial!&raquo;](http://youtu.be/f2ANZShSpB0)
 
@@ -64,7 +62,7 @@ By installing this plugin you will get a super lightweight awesome gallery image
 [gallery id="3" ids="15,16,14,13,130,129,128" effect="slide" margin="25px" link="none" id="3" shadow="3px" shadow_color="yellow" theme="blue" ]
 
 <strong>See the video how to work</strong> <br>
-http://youtu.be/f2ANZShSpB0
+https://www.youtube.com/watch?v=f2ANZShSpB0
 
 
 == Installation ==
