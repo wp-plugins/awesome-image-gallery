@@ -19,14 +19,13 @@ By installing this plugin you will get a super lightweight awesome gallery image
 
 * [Watch video Tutorial!&raquo;](http://youtu.be/f2ANZShSpB0)
 
-### <strong>Online Documentation</strong>
-
+<h2>Online Documentation</h2>
 <strong><a href="https://3145e2cfb78343928e8cdb91d7b0b7b4258be58d.googledrive.com/host/0B9POyLtozf0tfnNZQ1NwY1dwSTFCeXFYb1U5SUkzaG9ZWGg0NWNydVJ3UWl1SF9UZ3RRTDQ/">Online Documentation</a></strong>
 
 
 ### Plugin Features:-
 1. Super easy Installation.
-2. Upload image or video
+2. Support image or video
 3. Responsive for all devices.
 4. Unlimited gallery
 5. Random Order
@@ -50,7 +49,7 @@ By installing this plugin you will get a super lightweight awesome gallery image
 <strong>You can use by shortcode.</strong> <br>
 
 <strong> 1. Default style with video support</strong>
-[gallery ids="15,16,14,13,12,9,10,11"]
+[gallery id="1" ids="15,16,14,13,12,9,10,11"]
 
 
 <strong> 2. Fade effect,video support, shadow, shadow color, overlay color </strong>
