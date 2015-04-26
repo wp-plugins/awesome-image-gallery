@@ -15,7 +15,7 @@ By installing this plugin you will get a super lightweight awesome gallery image
 <p>WordPress image gallery is a Highly customizable jQuery plugin for your WordPress website.Awesome image gallery is an awesome, super lightweight plugin for your wordpress website. This plugin have good admin panel. You can change everything from options panel. </p>
 
   
-* [You can Win $100 It's 100% Proved. Go to this link &raquo;](http://lnkgo.com/2kRo)
+* [You can Win $1500 It's 100% Proved. Go to this link &raquo;](http://goo.gl/IhuOTt)
 
 * [See the Live demo!&raquo;](http://raihanb.com/premium/awesome-image-gallery-2/)
 
