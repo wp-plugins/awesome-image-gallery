@@ -17,7 +17,7 @@ By installing this plugin you will get a super lightweight awesome gallery image
   
 * [You can Win $1500 It's 100% Proved. Go to this link &raquo;](http://goo.gl/IhuOTt)
 
-* [See the Live demo!&raquo;](http://raihanb.com/gain/awesome-image-gallery-2/)
+* [See the Live demo!&raquo;](http://adf.ly/1IHJAU)
 
 * [Watch video Tutorial!&raquo;](http://youtu.be/f2ANZShSpB0)
 
